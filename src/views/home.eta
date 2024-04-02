@@ -1,0 +1,7 @@
+<%~ layout("layouts/default.eta") %>
+
+<h1>whats up</h1>
+
+rendered... <%= new Date() %><br>
+
+<img src="assets/construction.gif">

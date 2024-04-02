@@ -1,0 +1,11 @@
+# general stuff
+node_modules/
+.env
+
+# we only want to include the default config file
+data/*
+!data/config.default.json
+
+# no logs allowed
+logs/
+

@@ -1,0 +1,23 @@
+{
+  "name": "bord",
+  "version": "1.0.0",
+  "description": "a love letter to the forums i grew up looking at",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mechabubba <stevenvanniisprettycool@gmail.com>",
+  "license": "GPL-3.0-only",
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "dependencies": {
+    "@tinyhttp/app": "^2.2.3",
+    "eta": "^3.4.0",
+    "luxon": "^3.4.4",
+    "pino": "^8.19.0",
+    "pino-pretty": "^11.0.0",
+    "sirv": "^2.0.4"
+  }
+}

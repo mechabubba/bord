@@ -1,0 +1,6 @@
+{
+    "__message__": "DON'T EDIT THIS! Launch index.js to create a config.",
+
+    "__message__": "The port to run the server on.",
+    "port": 9001
+}
